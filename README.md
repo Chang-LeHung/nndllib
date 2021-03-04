@@ -1,2 +1,2 @@
 # nndllib
-A deep learning lib to finish a machine learning project quickly
+A deep learning lib to build a machine learning project quickly, based on pytorch
